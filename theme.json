@@ -16,34 +16,38 @@
     "INTERACTIVE_HOVER": ["#B988BC"],
     "INTERACTIVE_ACTIVE": ["#E1C5FD"],
     "INTERACTIVE_MUTED": ["#5F5160"],
+
     "BACKGROUND_PRIMARY": ["#4ee977"],
     "BACKGROUND_SECONDARY": ["#4ee977"],
     "BACKGROUND_SECONDARY_ALT": ["#4ee977"],
     "BACKGROUND_TERTIARY": ["#4ee977"],
-    "BACKGROUND_ACCENT": ["#4ee977"],
+    "BACKGROUND_ACCENT": ["#634A70"],
     "BACKGROUND_FLOATING": ["#4ee977"],
     "BACKGROUND_MOBILE_PRIMARY": ["#4ee977"],
     "BACKGROUND_MOBILE_SECONDARY": ["#4ee977"],
     "BACKGROUND_NESTED_FLOATING": ["#4ee977"],
 
-    "BACKGROUND_MESSAGE_HOVER": ["#0A0A0A"],
-    "BACKGROUND_MODIFIER_HOVER": ["#0A0A0A"],
+    "BACKGROUND_MESSAGE_HOVER": ["#3BD462"],
+    "BACKGROUND_MODIFIER_HOVER": ["#3BD462"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#67427D"],
     "BACKGROUND_MODIFIER_SELECTED": ["#67427D"],
     "BACKGROUND_MODIFIER_ACCENT": ["#484848"],
+
     "SCROLLBAR_THIN_THUMB": ["#26273b"],
     "SCROLLBAR_THIN_TRACK": ["transparent"],
     "SCROLLBAR_AUTO_THUMB": ["#CAB3DA"],
     "SCROLLBAR_AUTO_TRACK": ["#CAB3DA"],
+
     "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
     "CHANNELS_DEFAULT": ["#90769E"],
     "TEXT_DANGER": ["#FC0E61"],
     "KEYBOARD": ["#0A0A0A"],
     "CHANNEL_ICON": ["#BEB3C6"],
-    "CHAT_BACKGROUND": ["#0A0A0A"],
+    "CHAT_BACKGROUND": ["#4ee977"],
     "SPOILER_HIDDEN_BACKGROUND": ["#4B4B4B"],
     "SPOILER_REVEALED_BACKGROUND": ["#5E5E5E"]
   },
+
   "rawColors": {
     "PRIMARY_100": "#F2D8FD",
     "PRIMARY_200": "#947592",
@@ -51,11 +55,12 @@
     "PRIMARY_360": "#C272F0",
     "PRIMARY_400": "#7114EE",
     "PRIMARY_500": "#5F3A70",
-    "PRIMARY_600": "#0A0A0A",
-    "PRIMARY_630": "#2F2F2F",
-    "PRIMARY_660": "#2F2F2F",
-    "PRIMARY_700": "#0A0A0A",
-    "PRIMARY_800": "#0A0A0A",
+
+    "PRIMARY_600": "#4ee977",
+    "PRIMARY_630": "#4ee977",
+    "PRIMARY_660": "#4ee977",
+    "PRIMARY_700": "#4ee977",
+    "PRIMARY_800": "#4ee977",
 
     "BRAND_260": "#866195",
     "BRAND_360": "#BF96D0",
@@ -63,14 +68,16 @@
     "BRAND_560": "#BF96D0",
     "WHITE_500": "#E7C4FF",
     "YELLOW_300": "#B569E0",
-    "GREEN_360": "#B569E0",
+    "GREEN_360": "#4ee977",
     "RED_400": "#FC0E61"
   },
+
   "spec": 2,
+
   "background": {
     "blur": 0,
     "url": "https://wallpaperdkhr.com/wp-content/uploads/2025/09/Cool-Abstract-Wallpapers-8-558x1024.jpg",
     "alpha": 0.9,
-    "color": "#0A0A0A"
+    "color": "#4ee977"
   }
 }
