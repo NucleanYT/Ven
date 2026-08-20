@@ -1,9 +1,9 @@
 {
-  "name": "Kotikovtheme",
-  "description": "Based on Purpdark V3, by @vve1",
+  "name": "Ven Theme",
+  "description": "Based on Kotikovtheme, by @kotru21.",
   "authors": [
     {
-      "name": "@kotru21"
+      "name": "@nucleanyt"
     }
   ],
   "semanticColors": {
